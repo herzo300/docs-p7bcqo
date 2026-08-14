@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-gla2ud.surgaplay76kin.site/sitemap.xml
